@@ -1,4 +1,4 @@
-### 🇬🇧 **README (Türkçe)**
+### **Türkçe**
 
 # Trafik Sinyal Optimizasyonu (Welch-Powell Algoritması)
 
@@ -13,7 +13,7 @@ Bu proje, trafik yoğunluğunu azaltmak ve kavşaklar arasında daha verimli sin
 - Ağırlık: Her kavşak için (giriş - çıkış) farkı
 - Amaç: Kavşaklara çakışmayan sinyal fazları atamak
 
-### 🇬🇧 **README (English)**
+### **English**
 
 # Traffic Signal Optimization (Welch-Powell Algorithm)
 
